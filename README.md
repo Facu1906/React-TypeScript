@@ -4,7 +4,7 @@
 
 ### URL: https://mellow-cat-90b612.netlify.app
 
-#### In this project I used: 
+#### In this project I worked with: 
 
 - The Base Types
 - Array & Object Types

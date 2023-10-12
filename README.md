@@ -2,7 +2,7 @@
 
 ## React-TypeScript
 
-### URL: https://mellow-cat-90b612.netlify.app
+## URL: https://mellow-cat-90b612.netlify.app
 
 #### In this project I worked with: 
 
